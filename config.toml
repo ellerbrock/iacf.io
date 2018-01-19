@@ -1,0 +1,9 @@
+baseURL = "https://iacf.io/"
+title = "💫 Infrastructure as Code Foudation (IACF) 🦄"
+languageCode = "en-us"
+theme = "hugo-awesome"
+# theme = "hugo-theme-learn"
+disableHugoGeneratorInject = true
+# publishDir = "docs"
+ignoreFiles = [ "\\.dev$", "\\.backup$", "\\.old$"  ]
+pluralizeListTitles = true
