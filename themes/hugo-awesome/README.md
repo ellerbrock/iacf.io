@@ -100,12 +100,6 @@ services:
     environment:
       - SASS=${FILES_SASS}
       - GULP_DEBUG=${GULP_DEBUG}
-    # command: [ "gulp", "sass:watch" ]
-    # stdin_open: true
-    # tty: true
-    # entrypoint: ash
-    # depends_on:
-    #  - hugo
     networks:
       - webdev
 

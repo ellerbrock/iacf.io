@@ -6,6 +6,9 @@
 *.psd
 *.sec
 *.swp
+*.sass
+*.tf
+*.tfvars
 *~
 .Bridge*
 .DS_Store
@@ -20,4 +23,8 @@
 id_rsa*
 node_modules
 secrets.auto.tfvars
+hugo-theme-learn
+sass
+docs
+public
 
