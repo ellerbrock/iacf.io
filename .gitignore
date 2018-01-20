@@ -28,4 +28,5 @@ sass
 docs
 public
 content.backup
+docker-compose,yml
 
