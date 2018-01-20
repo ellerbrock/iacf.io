@@ -6,7 +6,6 @@
 *.psd
 *.sec
 *.swp
-*.sass
 *.tf
 *.tfvars
 *~
@@ -26,7 +25,9 @@ secrets.auto.tfvars
 hugo-theme-learn
 sass
 docs
-public
+public/*
 content.backup
 docker-compose,yml
+.env
+
 
