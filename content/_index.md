@@ -1,8 +1,8 @@
 +++
 title = "Home"
-subtitle = "awesome hugo theme"
-description = "open source theme for hugo"
-date = 2017-06-30T02:12:17+02:00
+subtitle = "in code we trust!"
+description = ""
+date= 2018-01-20T03:19:26+01:00
 menu = [ "header", "footer" ]
 weight = 10
 
@@ -10,6 +10,8 @@ weight = 10
   allowIndex = true
 +++
 
-# Awesome Hugo Theme
+# Welcome
 
-Welcome on the Homepage ...
+in code we trust!
+
+

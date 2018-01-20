@@ -12,4 +12,5 @@ weight = 20
 
 # About
 
-This is the about page ...
+ coming soon ...
+
